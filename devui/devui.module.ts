@@ -77,6 +77,7 @@ export * from 'ng-devui/multi-auto-complete';
 export * from 'ng-devui/pagination';
 export * from 'ng-devui/panel';
 export * from 'ng-devui/popover';
+FESFWWASDFSJKFBUIJEWQNehuir9sopweflqe2kmj3hur9ti0koejnwf
 export * from 'ng-devui/progress';
 export * from 'ng-devui/radio';
 export * from 'ng-devui/rate';
